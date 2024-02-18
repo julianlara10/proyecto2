@@ -1,0 +1,138 @@
+************************************************************
+total víctimas por año
+************************************************************
+- en el año "1984" el total de registros fueron: 1
+- en el año "1990" el total de registros fueron: 23
+- en el año "1991" el total de registros fueron: 70
+- en el año "1992" el total de registros fueron: 153
+- en el año "1993" el total de registros fueron: 88
+- en el año "1994" el total de registros fueron: 86
+- en el año "1995" el total de registros fueron: 130
+- en el año "1996" el total de registros fueron: 120
+- en el año "1997" el total de registros fueron: 96
+- en el año "1998" el total de registros fueron: 59
+- en el año "1999" el total de registros fueron: 54
+- en el año "2000" el total de registros fueron: 141
+- en el año "2001" el total de registros fueron: 299
+- en el año "2002" el total de registros fueron: 631
+- en el año "2003" el total de registros fueron: 760
+- en el año "2004" el total de registros fueron: 900
+- en el año "2005" el total de registros fueron: 1176
+- en el año "2006" el total de registros fueron: 1224
+- en el año "2007" el total de registros fueron: 980
+- en el año "2008" el total de registros fueron: 851
+- en el año "2009" el total de registros fueron: 771
+- en el año "2010" el total de registros fueron: 679
+- en el año "2011" el total de registros fueron: 564
+- en el año "2012" el total de registros fueron: 589
+- en el año "2013" el total de registros fueron: 427
+- en el año "2014" el total de registros fueron: 293
+- en el año "2015" el total de registros fueron: 223
+- en el año "2016" el total de registros fueron: 90
+- en el año "2017" el total de registros fueron: 59
+- en el año "2018" el total de registros fueron: 179
+- en el año "2019" el total de registros fueron: 117
+- en el año "2020" el total de registros fueron: 176
+- en el año "2021" el total de registros fueron: 157
+- en el año "2022" el total de registros fueron: 139
+- en el año "2023" el total de registros fueron: 59
+
+
+
+************************************************************
+total víctimas por mes (Independiente del año)
+************************************************************
+- en el mes "1" el total de registros fueron: 911
+- en el mes "2" el total de registros fueron: 1255
+- en el mes "3" el total de registros fueron: 1318
+- en el mes "4" el total de registros fueron: 1124
+- en el mes "5" el total de registros fueron: 1120
+- en el mes "6" el total de registros fueron: 1093
+- en el mes "7" el total de registros fueron: 1008
+- en el mes "8" el total de registros fueron: 1054
+- en el mes "9" el total de registros fueron: 930
+- en el mes "10" el total de registros fueron: 1018
+- en el mes "11" el total de registros fueron: 840
+- en el mes "12" el total de registros fueron: 693
+
+
+
+************************************************************
+total víctimas por departamento
+************************************************************
+- en el departamento "AMAZONAS" el total de registros fueron: 4
+- en el departamento "ANTIOQUIA" el total de registros fueron: 2658
+- en el departamento "ARAUCA" el total de registros fueron: 656
+- en el departamento "ATLANTICO" el total de registros fueron: 8
+- en el departamento "BOGOTA DC" el total de registros fueron: 30
+- en el departamento "BOLIVAR" el total de registros fueron: 645
+- en el departamento "BOYACA" el total de registros fueron: 78
+- en el departamento "CALDAS" el total de registros fueron: 170
+- en el departamento "CAQUETA" el total de registros fueron: 946
+- en el departamento "CASANARE" el total de registros fueron: 90
+- en el departamento "CAUCA" el total de registros fueron: 662
+- en el departamento "CESAR" el total de registros fueron: 156
+- en el departamento "CHOCO" el total de registros fueron: 230
+- en el departamento "CORDOBA" el total de registros fueron: 283
+- en el departamento "CUNDINAMARCA" el total de registros fueron: 141
+- en el departamento "GUAINIA" el total de registros fueron: 3
+- en el departamento "GUAVIARE" el total de registros fueron: 267
+- en el departamento "HUILA" el total de registros fueron: 239
+- en el departamento "LA GUAJIRA" el total de registros fueron: 60
+- en el departamento "MAGDALENA" el total de registros fueron: 46
+- en el departamento "META" el total de registros fueron: 1152
+- en el departamento "NARIO" el total de registros fueron: 1115
+- en el departamento "NORTE DE SANTANDER" el total de registros fueron: 970
+- en el departamento "PUTUMAYO" el total de registros fueron: 459
+- en el departamento "QUINDIO" el total de registros fueron: 28
+- en el departamento "RISARALDA" el total de registros fueron: 22
+- en el departamento "SANTANDER" el total de registros fueron: 297
+- en el departamento "SUCRE" el total de registros fueron: 78
+- en el departamento "TOLIMA" el total de registros fueron: 539
+- en el departamento "VALLE DEL CAUCA" el total de registros fueron: 271
+- en el departamento "VAUPES" el total de registros fueron: 44
+- en el departamento "VICHADA" el total de registros fueron: 17
+
+
+
+************************************************************
+total víctimas por actividad
+************************************************************
+- en la actividad "Actividades fuerza pblica" el total de registros fueron: 254
+- en la actividad "Agricultura" el total de registros fueron: 366
+- en la actividad "Caza pesca" el total de registros fueron: 49
+- en la actividad "Cuidado de animales" el total de registros fueron: 103
+- en la actividad "Erradicacin  PONAL" el total de registros fueron: 24
+- en la actividad "Erradicacion de cultivos ilicitos" el total de registros fueron: 118
+- en la actividad "Erradicador manual  PCI" el total de registros fueron: 360
+- en la actividad "Fuerza pblica" el total de registros fueron: 6913
+- en la actividad "Jugando" el total de registros fueron: 136
+- en la actividad "Labores de desminado" el total de registros fueron: 5
+- en la actividad "Labores de rescate" el total de registros fueron: 1
+- en la actividad "Manipulacin" el total de registros fueron: 192
+- en la actividad "Mantenimiento de infraestructura" el total de registros fueron: 25
+- en la actividad "Otra" el total de registros fueron: 98
+- en la actividad "Pasando estando cerca" el total de registros fueron: 1112
+- en la actividad "Recogiendo comida agua   madera" el total de registros fueron: 180
+- en la actividad "Sin Informacin" el total de registros fueron: 2108
+- en la actividad "Trabajos de casa" el total de registros fueron: 56
+- en la actividad "Transito por trocha atajo" el total de registros fueron: 59
+- en la actividad "Transito por via usual" el total de registros fueron: 187
+- en la actividad "Viajando" el total de registros fueron: 18
+
+
+
+************************************************************
+total de víctimas por género
+************************************************************
+- para el genero "Herido" el total de registros fueron: 10013
+- para el genero "Muerto" el total de registros fueron: 2351
+
+
+
+************************************************************
+total de víctimas por estado
+************************************************************
+- para el estado "Hombre" el total de registros fueron: 11651
+- para el estado "Mujer" el total de registros fueron: 673
+- para el estado "Sin Informacin" el total de registros fueron: 40
